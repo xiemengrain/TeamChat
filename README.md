@@ -11,6 +11,7 @@ A application that supports team chatting
 #### Critical Modules
   - socket
   - select 
+  
   To suppurt non-blocking message forwarding, the server uses the select module from python standard library that will block itself until there is a network activity(e.g a connection request from a client , a message sent from a client , a exceptional connection)
   
   
