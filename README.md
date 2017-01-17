@@ -1,5 +1,5 @@
 # TeamChat
-A application that supports team chatting 
+An application that supports team chatting 
 
 
 
